@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-FOR AITH: “email”: “superadmin@gmail.com”,
+FOR AUTH: “email”: “superadmin@gmail.com”,
           “password”: “Passsword7!”
 ## Available Scripts
 
